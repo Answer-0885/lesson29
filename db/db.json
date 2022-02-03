@@ -4,22 +4,15 @@
       "name": "Mark1",
       "email": "otto@gmail.com",
       "children": true,
-      "permissions": true,
+      "permissions": false,
       "id": 1
     },
     {
       "name": "Artem",
       "email": "thornton@gmail.com",
       "children": false,
-      "permissions": false,
-      "id": 2
-    },
-    {
-      "name": "vitaly",
-      "email": "answer-0885@mail.ru",
-      "children": false,
       "permissions": true,
-      "id": 3
+      "id": 2
     }
   ]
 }
